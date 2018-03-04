@@ -1,0 +1,187 @@
+#wrapper {
+	width: 1100px;
+	margin: 10px auto;
+}
+
+#left {
+	width: auto;
+	float: left;
+}
+
+#right {
+	width: 200px;
+	float: left;
+	display: block;
+}
+
+#content {
+	width: 730px;
+	float: left;
+}
+#footer{
+	width: 1100px;
+	display: block;
+	margin: 10px auto;
+	margin-top: 420px;
+}
+
+
+.information{
+	    	background-color: #001C5C;
+	    	display: block;
+	    	width: auto;
+	    	height: auto;
+	    	margin-bottom: 0px;
+	    	margin-top: 0px;
+}
+.nav-item{
+	        display: inline-block;
+    		padding-left: 16px;
+    		font-size: 12px;
+    		font-weight: 800;
+    		text-transform: uppercase;
+    		margin-top: 20px;
+}
+.prise{
+	       color:#B9C2D1;
+	       font-family: 'Permanent Marker', cursive;
+	       font-size: 100%; 
+	       margin-left: 10px; 
+	       margin: 0px;
+	       
+	    }
+.float{
+	    	background:   url(img/float.jpg);
+	    	/*background-repeat: no-repeat;*/
+	    	display: inline-block;
+	    	width: 200px;
+	    	height: 420px;
+	    	float: right;
+	    	margin: 0px;
+	    	margin-top: -11px;
+}
+
+.name{
+			display: inline-block;
+			margin: 20px;
+			font-family: 'Permanent Marker', cursive;
+			text-transform: uppercase;
+			list-style-type: none;
+			font-size: 180%;
+			color: #B3BED0;
+
+}
+.check_in {
+	        display: inline-block;
+		    width: 170px;
+		    height: 200px;
+		    margin-bottom: 0px;
+		    background-color:  #0D337D;
+}
+.mountains{
+	       background: url(img/ponarama.jpg);
+	       background-size: 100%;
+   		   display: block;
+   		   margin-top: 0px;
+   		   width: 1100px;
+   		   opacity: 1;
+   		   height: 220px;
+   		   margin: 0;
+   		}
+.table{
+			display:  block;
+			width: auto;
+			height: auto;
+			
+
+}
+.product{
+			display: inline-block;
+			border-radius: 50px 0 0 50px;
+			width: 156px;
+			height: 155px;
+			float: left;
+			padding: 5px;
+			margin: 3px;
+
+}
+a.snowbord{
+			background: url(img/snowbord2.jpg);
+			background-repeat: no-repeat;
+			display: inline-block;
+			height: 200px;
+			width: 200px;
+		}
+a.snowbord:hover{
+			background: url(img/snowbord1.jpg);
+			background-repeat: no-repeat;
+			background-position: 0 0px;
+			position: absolute;		
+			display: block;
+			height: 450px;
+			width: 450px;
+		}
+
+a.boots{
+			background: url(img/boots4.jpg);
+			background-repeat: no-repeat;
+			display: inline-block;
+			height: 200px;
+			width: 200px;
+		}
+a.boots:hover{
+			background: url(img/boots3.jpg);
+			background-repeat: no-repeat;
+			background-position: 0 0px;
+			position: absolute;		
+			display: block;
+			height: 450px;
+			width: 450px;
+		}
+a.helmet{
+			background: url(img/helmet.jpg);
+			background-repeat: no-repeat;
+			display: inline-block;
+			height: 200px;
+			width: 200px;
+		}
+a.helmet:hover{
+			background: url(img/helmet2.jpg);
+			background-repeat: no-repeat;
+			background-position: 0 0px;
+			position: absolute;		
+			display: block;
+			height: 450px;
+			width: 450px;
+		}
+a.glass{
+			background: url(img/glasses.jpg);
+			background-repeat: no-repeat;
+			display: inline-block;
+			height: 200px;
+			width: 200px;
+		}
+a.glass:hover{
+			background: url(img/glasses2.jpg);
+			background-repeat: no-repeat;
+			background-position: 0 0px;
+			position: absolute;		
+			display: block;
+			height: 450px;
+			width: 450px;
+		}
+.clearfix{
+	width: 1100px;
+	height: 100px;
+	margin-top: 423px;
+	margin: 0px;
+}
+.footer{
+	background-color: blue;
+	height: 50px;
+}
+.author{
+ 
+ margin-bottom: 0px;
+
+}
